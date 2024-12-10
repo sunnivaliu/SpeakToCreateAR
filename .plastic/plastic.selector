@@ -1,0 +1,4 @@
+repository "XRHandAI@hyperSense@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7ca99533264e939ed60ffc81f03d20, type: 3}
+  m_Name: OpenAIConfiguration
+  m_EditorClassIdentifier: 
+  apiKey: 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
+  organizationId: org-j3OOuU3DXaunOh2E5JVi29xT
+  projectId: 
+  useAzureOpenAI: 0
+  proxyDomain: 
+  resourceName: 
+  deploymentId: 
+  useAzureActiveDirectory: 0
+  apiVersion: v1
